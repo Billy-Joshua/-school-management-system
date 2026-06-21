@@ -4,19 +4,6 @@ Version: 1.0.0
 
 This repository is a school management system built with PHP, MySQL and Bootstrap.
 
-
-
-Access the app:
-
-
-
-Default database connection (file: `DB_connection.php`):
-
-- host: `localhost`
-- user: `root`
-- password: `` (empty)
-- database: `sms_db`
-
 Seeded accounts (use these for first login):
 
 
